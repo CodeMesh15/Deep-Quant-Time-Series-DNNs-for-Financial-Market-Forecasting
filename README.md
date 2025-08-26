@@ -46,6 +46,3 @@ This project replicates a quantitative research workflow for financial time seri
 1.  **Training Pipeline**: We'll develop a `train.py` script that loads the preprocessed data, initializes a chosen model, and trains it to predict the next period's price movement (e.g., a binary classification of up/down).
 2.  **Backtesting Engine**: A `backtest.py` script will be created to simulate trading based on the model's predictions. It will iterate through a test set, make trading decisions, and calculate performance metrics like **Sharpe Ratio**, **Maximum Drawdown**, and **Total Return**.
 
----
-
-## 4. Project Structure
